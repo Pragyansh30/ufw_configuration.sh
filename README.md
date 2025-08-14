@@ -43,6 +43,9 @@ SSH (port 22) is allowed
 
 HTTP (port 80) is denied
 
+screenshot
+<img width="922" height="504" alt="inten task2 ed" src="https://github.com/user-attachments/assets/db7a5de5-8bc8-4080-b3eb-fa6b24e60dfe" />
+
 Result
 
 The firewall is now active and configured correctly:
